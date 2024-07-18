@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "60c72b2f5f1b2c001c8e4f11",
+    "Name": "Annalakshmi Restaurant",
+    "Location": "18/3, Rukmani Lakshmipathi Road",
+    "Locality": "Egmore",
+    "City": "Chennai",
+    "Cuisine": "South Indian",
+    "Rating": 4.8,
+    "Cost": 35
+  },
+  {
+    "_id": "60c72b2f5f1b2c001c8e4f12",
+    "Name": "Dakshin",
+    "Location": "37, Mahatma Gandhi Road",
+    "Locality": "Nungambakkam",
+    "City": "Chennai",
+    "Cuisine": "South Indian",
+    "Rating": 4.7,
+    "Cost": 40
+  },
+  {
+    "_id": "60c72b2f5f1b2c001c8e4f13",
+    "Name": "Madras Pavilion",
+    "Location": "120, Anna Salai",
+    "Locality": "Guindy",
+    "City": "Chennai",
+    "Cuisine": "Multicuisine",
+    "Rating": 4.6,
+    "Cost": 50
+  },
+  {
+    "_id": "60c72b2f5f1b2c001c8e4f14",
+    "Name": "Murugan Idli Shop",
+    "Location": "149/1, GN Chetty Road",
+    "Locality": "T. Nagar",
+    "City": "Chennai",
+    "Cuisine": "South Indian",
+    "Rating": 4.5,
+    "Cost": 10
+  },
+  {
+    "_id": "60c72b2f5f1b2c001c8e4f15",
+    "Name": "The Marina",
+    "Location": "39, College Road",
+    "Locality": "Nungambakkam",
+    "City": "Chennai",
+    "Cuisine": "Seafood",
+    "Rating": 4.7,
+    "Cost": 60
+  },
+  {
+    "_id": "60c72b2f5f1b2c001c8e4f16",
+    "Name": "Peshawri",
+    "Location": "2/124, Mount Road",
+    "Locality": "Guindy",
+    "City": "Chennai",
+    "Cuisine": "North Indian",
+    "Rating": 4.8,
+    "Cost": 45
+  },
+  {
+    "_id": "60c72b2f5f1b2c001c8e4f17",
+    "Name": "Southern Spice",
+    "Location": "1, Binny Road",
+    "Locality": "Anna Salai",
+    "City": "Chennai",
+    "Cuisine": "South Indian",
+    "Rating": 4.9,
+    "Cost": 55
+  },
+  {
+    "_id": "60c72b2f5f1b2c001c8e4f18",
+    "Name": "Chap Chay",
+    "Location": "601, Anna Salai",
+    "Locality": "Thousand Lights",
+    "City": "Chennai",
+    "Cuisine": "Chinese",
+    "Rating": 4.5,
+    "Cost": 30
+  },
+  {
+    "_id": "60c72b2f5f1b2c001c8e4f19",
+    "Name": "Benjarong",
+    "Location": "146, TTK Road",
+    "Locality": "Alwarpet",
+    "City": "Chennai",
+    "Cuisine": "Thai",
+    "Rating": 4.6,
+    "Cost": 40
+  },
+  {
+    "_id": "60c72b2f5f1b2c001c8e4f1a",
+    "Name": "Azzuri Bay",
+    "Location": "13, 1st Crescent Park Road",
+    "Locality": "Gandhi Nagar",
+    "City": "Chennai",
+    "Cuisine": "Italian",
+    "Rating": 4.7,
+    "Cost": 35
+  }
+]
